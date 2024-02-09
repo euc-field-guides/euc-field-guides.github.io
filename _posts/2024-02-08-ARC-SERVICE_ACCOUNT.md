@@ -50,7 +50,7 @@ ARC cannot model this. There is also a field that references Account from the Pr
 
 The plan of attack here is to create a trigger that will populate the Property Owner Account on Premises when a Service Account is created that points to the Premises. The sequence here is important as Premises is created before Service Account as Service Account has a lookup to Premises.
 
-This relationship matters as it used it several console Flex Card components as well as some Multi Site CPQ logic. The goal here is have the data model be used as normal but use the trigger to add this lookup to account in order to allow Premises to be configured in ARC.
+This relationship matters as it is used in several console Flex Card components as well as some Multi Site CPQ logic. The goal here is have the data model be used as normal but use the trigger to add this lookup to account in order to allow Premises to be configured in ARC.
 
 > Note that this trigger can very likely be improved. The trigger itself is not the point of the exercise, it is more about the data pattern required for ARC to work in this scenario.
 {: .prompt-info}
@@ -143,3 +143,5 @@ _ARC Adding Service Point Object_
 Note that a custom field could be used for the lookup from Premises to Account is Property Owner Account is being used already. In general it is more likely that Account Contact Relationship or Account Relationship would be used to cover scenarios where Property Owner Account would be used.
 
 Later posts will add objects to other records (e.g. Billing Account payment methods), add actions to objects (e.g. meter read from service point) and Flex Cards... To view Actionable Relationship Center posts filter by sub category 'ARC'.
+
+Here is a [repo](https://github.com/euc-field-guides/euc-field-guide-arc-service-account) containing all the config created in this post.
