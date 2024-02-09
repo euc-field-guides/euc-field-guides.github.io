@@ -1,7 +1,7 @@
 ---
 title: The Journey Begins
 date: 2024-02-09 12:00:00 +5000
-categories: [EUC, EUC-UPHILL, INTRO, DEV]
+categories: [EUC, Uphill, Intro, DevOps]
 tags: [trial, devhub, energy-cloud]     # TAG names should always be lowercase
 ---
 
@@ -24,4 +24,4 @@ For example:
   - Actionable Relationsip Center
   - etc
 
-The path for building up scratch orgs will be covered under the EUC-UPHILL category.
+The path for building up scratch orgs will be covered under the 'Uphill' category.
