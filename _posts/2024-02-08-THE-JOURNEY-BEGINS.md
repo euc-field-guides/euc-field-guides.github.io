@@ -1,6 +1,6 @@
 ---
 title: The Journey Begins
-date: 2024-02-08 12:00:00 +5000
+date: 2024-02-08 08:00:00 +5000
 categories: [Dev, Uphill]
 tags: [trial, devhub, energy-cloud]     # TAG names should always be lowercase
 ---
@@ -25,3 +25,9 @@ For example:
   - etc
 
 The path for building up scratch orgs will be covered under the 'Uphill' category.
+
+## Tradeoffs
+
+While Trial orgs are fully configured they do expire. On the other hand scratch orgs definitely expire but allow you to keep your config as code. Code lasts forever(ish).
+
+Of course you could also add config to a trial org and export it as metadata, but where's the fun in that...
