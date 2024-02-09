@@ -14,7 +14,7 @@ According to the [help docs](https://help.salesforce.com/s/articleView?id=sf.fsc
 > A working knowledge of the [Energy & Utilities data model](https://help.salesforce.com/s/articleView?id=ind.energy_energyutilities_cloud_data_model_351148.htm&type=5) will be very helpful for this article.
 {: .prompt-info}
 
-## Why should I care about ARC?
+## Why should I care about ARC?
 
 With a few simple configurations a lot of functionality can be added to Service Account.
 
