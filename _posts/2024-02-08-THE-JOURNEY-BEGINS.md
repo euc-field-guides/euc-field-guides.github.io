@@ -1,7 +1,7 @@
 ---
 title: The Journey Begins
 date: 2024-02-08 12:00:00 +5000
-categories: [EUC, Uphill, Intro, DevOps]
+categories: [Dev, Uphill]
 tags: [trial, devhub, energy-cloud]     # TAG names should always be lowercase
 ---
 
