@@ -4,7 +4,7 @@ date: 2024-02-08 08:00:00 +5000
 categories: [Features, ARC]
 tags: [trial, energy-cloud, actionable-relationship-center]   
 mermaid: true
-imp_path: /img/screenshots/arc/
+img_path: /assets/img/screenshots/arc/
 ---
 
 # Actionable Relationship Center - Service Account
