@@ -124,7 +124,7 @@ _ARC Adding Premises Object_
 
 Select the fields to show on the Display tab of the Premises object (in this case, Name and Premises Identifier).
 
-### Service Point Object
+### Service Point Object
 
 Next let's add service point. Click on the + sign below the Premises object. Type in 'Service Point' for the Object and select 'Premises' as the Parent Node Lookup Field.
 
