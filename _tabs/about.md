@@ -6,7 +6,7 @@ order: 4
 
 # Field Guides
 
-[![Build and Deploy](https://github.com/euc-field-guides/euc-field-guides.github.io/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/euc-field-guides/euc-field-guides.github.io/actions/workflows/pages-deploy.yml)
+[![Build and Deploy](https://github.com/euc-field-guides/euc-field-guides.github.io/actions/workflows/pages-deploy.yml/badge.svg?branch=main)](https://github.com/euc-field-guides/euc-field-guides.github.io/actions/workflows/pages-deploy.yml)
 
 This is a gethering point for articles, tips, how to guides and opinions on Energy & Utilities Cloud. Where possible the article / post should include all the framing / explanation required and any code should be stored in a repo associaced with this [org](https://github.com/orgs/euc-field-guides/repositories).
 
