@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/3685596665/8b66d81e26dbaf88c10c7e4f0753abfd_400x400.jpeg
+avatar: https://raw.githubusercontent.com/euc-field-guides/euc-field-guides.github.io/main/assets/img/91C21B2B-F71D-4E08-A68B-62DB6E92D7DA.webp
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
